@@ -1,0 +1,8 @@
+# Site settings
+permalink: /docs/:title
+pygments: true
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables", "with_toc_data"]
