@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Extract
+linkId: extract-link
 ---
 
 #Extract From a File
@@ -18,25 +19,25 @@ As such, any file containing a list of links (one per line) in this format can b
 
 >**Note:** Your bookmarks file is never uploaded to the linkwrapper servers. Instead, extraction takes place in your browser and only the link types specified by you are ever sent to be added to your persistent link store. Any extracted links are sent over an encrypted channel.
 
-##![chrome](/img/chrome.png)
-1. Click the Chrome menu ![chrome menu](/img/docs/chromeMenu.png) in the top right corner of your browser
+##![chrome](/docs/img/chrome.png)
+1. Click the Chrome menu ![chrome menu](/docs/img/chromeMenu.png) in the top right corner of your browser
 2. Select **Bookmarks > Bookmarks Manager**
 3. Click **Organise** in the top left corner
 4. Select **Export bookmarks to HTML file...**
 5. Save the file
 
-##![firefox](/img/firefox.png)
-1. Click the bookmarks button ![firefox menu](/img/docs/firefoxMenu.png) to the right of the address bar
+##![firefox](/docs/img/firefox.png)
+1. Click the bookmarks button ![firefox menu](/docs/img/firefoxMenu.png) to the right of the address bar
 2. Select **Show All Bookmarks**
 3. Click **Import and Backup**
 4. Select **Export bookmarks to HTML...**
 5. Save the file
 
-##![safari](/img/safari.png)
+##![safari](/docs/img/safari.png)
 1. Select **File > Export Bookmarks**
 2. Save the file
 
-##![Internet Explorer](/img/ie.png)
+##![Internet Explorer](/docs/img/ie.png)
 1. Click the **Favorites** button.
 2. Select **Import and export...**
 3. Click **Export to a file...***

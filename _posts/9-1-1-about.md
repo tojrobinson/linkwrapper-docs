@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+linkId: about-link
 ---
 
 #About
@@ -12,7 +13,7 @@ The aim has been to take the qualities of traditional media libraries (à la Win
 ##Contributing
 <div class="contribution">
 <a href="https://github.com/tojrobinson/linkwrapper.com"><img src="/img/octocat.png"></a>
-If you are a programmer (or designer), you can contribute to the code base on <a href="https://github.com/tojrobinson/linkwrapper.com">githoob</a>.
+If you are a programmer (or designer), you can contribute to the code base on <a href="https://github.com/tojrobinson/linkwrapper.com">github</a>.
 </div>
 
 <div class="contribution">
@@ -22,5 +23,5 @@ If you want to help pay for server costs (or donate because you're boss mode), y
 
 <div class="contribution">
 <a href="https://twitter.com/linkwrapper"><img src="/img/twitter.png"></a>
-If you have feature ideas or encounter issues, feel free to tweet them to <a href="https://twitter.com/linkwrapper">@linkwrapper</a> or open an issue on <a href="https://github.com/tojrobinson/linkwrapper.com">githoob</a>.
+If you have feature ideas or encounter issues, feel free to tweet them to <a href="https://twitter.com/linkwrapper">@linkwrapper</a> or open an issue on <a href="https://github.com/tojrobinson/linkwrapper.com">github</a>.
 </div>

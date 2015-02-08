@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Lists
+linkId: lists-link
 ---
 
 #Lists
@@ -15,7 +16,7 @@ Collections store the **root** or **original** copy of links that are in turn re
 
 Collections can be sorted alphabetically (or numerically in the case of **Plays**) by clicking the column headings:
 
-![sort list](/img/docs/sortList.png)
+![sort list](/docs/img/sortList.png)
 
 > Clicking a column heading more than once will toggle the order in which the items are sorted.
 
@@ -32,12 +33,12 @@ Playlists are populated with links from your **LIBRARY**. In order to add links 
 ##Creating Lists
 Within the ![add menu](/img/add.png) menu, you will find the **New Collection** ![collection icon](/img/libraryIcon.png) and **New Playlist** ![playlist icon](/img/playlistsIcon.png) options. These will allow you to create either a collection or a playlist respectively.
 
-![create list](/img/docs/createList.png)
+![create list](/docs/img/createList.png)
 
 
 ##Editing Lists
 You may wish to rename, delete, or reorder some of your lists after you have created them. In order to do this, click the ![cog](/img/cog.png) next to **LIBRARY** or **PLAYLISTS** (you may need to hover over them for it to appear) to enable edit mode.
 
-![edit lists](/img/docs/editLists.png)
+![edit lists](/docs/img/editLists.png)
 
 Here you will be able to edit the title by clicking ![edit list](/img/rename.png), delete the list (along with any links it may contain) by clicking ![delete list](/img/remove.png), or grab and reorder it with ![grab list](/img/grabList.png).

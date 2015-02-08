@@ -12,10 +12,10 @@
 
       <link rel="shortcut icon" href="/favicon.ico">
       <link rel="stylesheet" href="/css/lib/normalize.css">
-      <link rel="stylesheet" href="/css/docs.css">
+      <link rel="stylesheet" href="/docs/css/main.css">
       {% if page.title %}
       <style>
-         #{{ page.title }} {
+         #{{ page.linkId }} {
             background: white;
             color: #000;
          }
@@ -35,7 +35,7 @@
          <ul>
           {% for post in site.posts %}
             <li>
-               <a id="{{ post.title }}" href="{{ post.url }}">{{ post.title }}</a>
+               <a id="{{ post.linkId }}" href="{{ post.url }}">{{ post.title }}</a>
             </li>
           {% endfor %}
         </ul>
@@ -54,7 +54,6 @@
       </div>
    </div>
    </div>
-      <script src="/js/lib/jquery.js"></script>
    </body>
 </html>
 
