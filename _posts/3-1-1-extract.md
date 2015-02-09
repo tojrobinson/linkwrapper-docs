@@ -17,7 +17,7 @@ The extraction file does not necessarily have to be your exported bookmarks, thi
 
 As such, any file containing a list of links (one per line) in this format can be used as the extraction target.
 
->**Note:** Your bookmarks file is never uploaded to the linkwrapper servers. Instead, extraction takes place in your browser and only the link types specified by you are ever sent to be added to your persistent link store. Any extracted links are sent over an encrypted channel.
+> Your bookmarks file is never uploaded to the linkwrapper servers. Instead, extraction takes place in your browser and only the link types specified by you are ever sent to be added to your persistent link store. Any extracted links are sent over an encrypted channel.
 
 ##![chrome](/docs/img/chrome.png)
 1. Click the Chrome menu ![chrome menu](/docs/img/chromeMenu.png) in the top right corner of your browser

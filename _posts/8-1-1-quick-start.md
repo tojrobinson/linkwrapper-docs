@@ -19,14 +19,14 @@ There are four ways in which you can start adding links to your **LIBRARY**:
 - Add suggested links
 
 ###Existing links
-The first two options allow you to add links you might already have. From the ![add menu](/img/add.png) menu, you can choose to either add links individually or extract many many of them from a file (e.g. a bookmarks file):
+The first two options allow you to add links you might already have. From the ![add menu](/img/add.png) menu, you can choose to either add links individually or extract many of them from a file (e.g. a bookmarks file):
 
 ![extract](/docs/img/extract.png)
 
 > For more information on how to obtain a bookmarks file to extract links from, read through the [extraction section](/docs/extract).
 
 ###Finding New Links
-You can also search external sources for new links via the search boxh. By default, it will search the currently displayed list; however, you can change the search target by clicking the icon in the left portion of the search box:
+You can also search external sources for new links via the search box. By default, it will search the currently displayed list; however, you can change the search target by clicking the icon in the left portion of the search box:
 
 ![search menu](/docs/img/search.png)
 
@@ -38,8 +38,4 @@ Similarly, whenever you play a link, related streams will appear to the right of
 
 > Links in your **LIBRARY** are unique, even across [collections](/docs/lists#collections). This is not the case for **PLAYLISTS** which can contain as many duplicates as you wish.
 
-You should now have 
-##Editing Links
-Now that you have some links in your **LIBRARY**, you may wish to edit, delete, or move them between [collections](/docs/lists#collections). In order to do so, bring up the link menu by either right-clicking a link in the current list (or clicking the ![link menu](/img/linkMenu.png) button).
-
-> You can select multiple links at once using the <kbd>Ctrl</kbd> and <kbd>Shift</kbd> keys.
+You should now have a collection of links that you can start playing. For more informatiion on how to interact and manage your links, read through the [Links](/docs/links) and [Lists](/docs/lists) sections.
