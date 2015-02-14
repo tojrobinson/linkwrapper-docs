@@ -1,13 +1,12 @@
 @font-face {
    font-family: 'Open Sans';
    src: url('/fnt/OpenSans.eot');
-   src: url('/fnt/OpenSans.eot?iefix') format('eot'),
+   src: local('Open Sans LW'), local('OpenSans'),
+        url('/fnt/OpenSans.eot?iefix') format('eot'),
         url('/fnt/OpenSans.woff') format('woff'),
+        url('/fnt/OpenSans.woff2') format('woff2'),
         url('/fnt/OpenSans.ttf') format('truetype'),
         url('/fnt/OpenSans.svg#webfont') format('svg');
-
-   font-weight: normal;
-   font-style: normal;
 }
 
 html, body {
@@ -176,8 +175,6 @@ kbd {
 .content iframe {
    width: 100%;
    min-width: 200px;
-   max-width: 560px;
-   height: 315px;
 }
 
 .next {

@@ -10,6 +10,8 @@ linkId: about-link
 
 The aim has been to take the qualities of traditional media libraries (à la Winamp or iTunes) and implement them within an online and stream based context.
 
+Created by [Tully Robinson](https://tully.io)
+
 ##Contributing
 <div class="contribution">
 <a href="https://github.com/tojrobinson/linkwrapper.com"><img src="/img/octocat.png"></a>
